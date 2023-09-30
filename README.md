@@ -1,4 +1,3 @@
-![tomorrow-banner](https://github.com/iamtomorrow/iamtomorrow/assets/72582696/a79cb7fe-217c-4cdf-ac83-e327b21ac876)
 
 <!--
 **iamtomorrow/iamtomorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
